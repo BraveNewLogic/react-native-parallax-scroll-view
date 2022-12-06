@@ -41,7 +41,7 @@ const IPropTypes = {
 	renderScrollComponent: func,
 	renderStickyHeader: func,
 	stickyHeaderHeight: number,
-	contentContainerStyle: ViewPropTypes.style,
+	contentContainerStyle: string,
 	outputScaleValue: number
 }
 
